@@ -7,7 +7,7 @@ export const About = () => {
   return (
     <div
       id="About"
-      className="w-full h-screen text-white bg-gradient-to-b from-gray-800 to-black"
+      className="w-full sm:h-screen text-white bg-gradient-to-b from-gray-800 to-black"
     >
       <div className="max-w-screen-lg p-4 mx-auto  justify-center w-full h-full pt-16">
         <div className="pb-4 pt-8">

@@ -8,12 +8,13 @@ export const Project = () => {
     { id: 2, src: proj1 },
     { id: 3, src: proj1 },
     { id: 4, src: proj1 },
-    { id: 4, src: proj1 },
+    { id: 5, src: proj1 },
+    { id: 6, src: proj1 },
   ];
   return (
     <div
       id="Projects"
-      className="w-full h-screen text-white bg-gradient-to-b from-black to-gray-800"
+      className="w-full sm:h-screen text-white bg-gradient-to-b from-black to-gray-800 pt-20 pb-2"
     >
       <div className="max-w-screen-lg px-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-2">
